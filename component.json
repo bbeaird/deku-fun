@@ -1,0 +1,8 @@
+{
+  "name": "App/deku-bbeaird",
+  "version": "0.0.1",
+  "main": "lib/index.js",
+  "dependencies": {
+    "dekujs/virtual-element": "^1.1.2"
+  }
+}
